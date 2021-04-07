@@ -1,1 +1,21 @@
-# azure-resume
+# #CloudGuruChallenge: Your resume in Azure
+
+## Prerequisites
+- Free Azure account
+- Free GitHub account
+- A domain from any DNS provider
+- A text editor like Visual Code 
+- Azure Functions Visual Code extensions (if you use Visual Code)
+
+## Challenge Steps
+- [ ] Create a GitHub repository for your project
+- [ ] Inside of your GitHub repo, create your website
+- [ ] Add a visitors counter to your website
+- [ ] Deploy the website to Azure Blob storage
+- [ ] Enable HTTPS and custom domain support
+- [ ] Set up GitHub actions
+- [ ] Write your blog post
+
+## Extra-challenging steps
+- [ ] Use the Azure CLI
+- [ ] Infrastructure as code
