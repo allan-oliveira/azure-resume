@@ -1,4 +1,7 @@
 # #CloudGuruChallenge: Your resume in Azure
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/allan-oliveira/azure-resume)
+
+Access live [here](https://www.allanoliveira.pt)
 
 ## Prerequisites
 - Free Azure account
