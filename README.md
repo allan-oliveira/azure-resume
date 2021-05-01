@@ -8,10 +8,10 @@
 - Azure Functions Visual Code extensions (if you use Visual Code)
 
 ## Challenge Steps
-- [ ] Create a GitHub repository for your project
-- [ ] Inside of your GitHub repo, create your website
+- [X] Create a GitHub repository for your project
+- [X] Inside of your GitHub repo, create your website
 - [ ] Add a visitors counter to your website
-- [ ] Deploy the website to Azure Blob storage
+- [X] Deploy the website to Azure Blob storage
 - [ ] Enable HTTPS and custom domain support
 - [ ] Set up GitHub actions
 - [ ] Write your blog post
