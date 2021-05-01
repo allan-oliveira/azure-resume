@@ -10,10 +10,10 @@
 ## Challenge Steps
 - [X] Create a GitHub repository for your project
 - [X] Inside of your GitHub repo, create your website
-- [ ] Add a visitors counter to your website
+- [X] Add a visitors counter to your website
 - [X] Deploy the website to Azure Blob storage
-- [ ] Enable HTTPS and custom domain support
-- [ ] Set up GitHub actions
+- [X] Enable HTTPS and custom domain support
+- [X] Set up GitHub actions
 - [ ] Write your blog post
 
 ## Extra-challenging steps
