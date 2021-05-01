@@ -1,10 +1,12 @@
-name: Blob storage website CI
+name: Blob Storage Website CI
 
 on:
     push:
         branches: [ main ]
-    pull_request:
-        branches: [ main ]
+        paths:
+        - 'frontend/**'
+    # pull_request:
+    #     branches: [ main ]
 
 jobs:
   build:

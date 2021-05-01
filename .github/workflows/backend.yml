@@ -1,4 +1,4 @@
-name: ResumeVisitorsCounter Azure Function CI
+name: Azure Function APP CI
 
 on:
     push:
@@ -48,3 +48,8 @@ jobs:
       with:
         app-name: ${{ env.AZURE_FUNCTIONAPP_NAME }}
         package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/api/output'
+
+  # Azure logout 
+    - name: logout
+      run: |
+            az logout        
