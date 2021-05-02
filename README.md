@@ -1,5 +1,7 @@
 # #CloudGuruChallenge: Your resume in Azure
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/allan-oliveira/azure-resume)
+[![Blob Storage Website CI](https://github.com/allan-oliveira/azure-resume/actions/workflows/frontend.yml/badge.svg)](https://github.com/allan-oliveira/azure-resume/actions/workflows/frontend.yml)
+[![Azure Function APP CI](https://github.com/allan-oliveira/azure-resume/actions/workflows/backend.yml/badge.svg)](https://github.com/allan-oliveira/azure-resume/actions/workflows/backend.yml)
 
 Access live [here](https://www.allanoliveira.pt)
 
